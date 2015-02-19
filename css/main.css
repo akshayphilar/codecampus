@@ -32,6 +32,7 @@ body {
 font-style: italic;color: #000053;}
 #content-header p{color: #000053;padding-top: 1em;font-family: "Raleway", "Lato", Arial, sans-serif;}
 
+.center-images {display: block;margin: auto;}
 
 .content-blocks h3 {text-align: center;font-weight: bold;}
 .content-blocks p {text-align: justify;font-size:1em;}
